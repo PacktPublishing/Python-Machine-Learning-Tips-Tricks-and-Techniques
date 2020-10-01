@@ -7,7 +7,7 @@ achine learning allows us to interpret data structures and fit that data into mo
 It is essential to keep upgrading your machine learning skills as there are immense advancements taking place every day. In this course, you will get hands-on experience of solving real problems by implementing cutting-edge techniques to significantly boost your Python Machine Learning skills and, as a consequence, achieve optimized results in almost any project you are working on. 
 Each technique we cover is itself enough to improve your results. However; combining them together is where the real magic is. Throughout the course, you will work on real datasets to increase your expertise and keep adding new tools to your machine learning toolbox.
 By the end of this course, you will know various tips, tricks, and techniques to upgrade your machine learning algorithms to reduce common problems, all the while building efficient machine learning models.
-
+And last you need to focus every single topic in this course, we recommand you to make notes of every video.
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
